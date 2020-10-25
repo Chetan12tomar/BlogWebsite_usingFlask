@@ -7,13 +7,13 @@
         "fb_url":"https://facebook.com/",
         "tw_url":"https://twitter.com/",
         "gh_url":"https://github.com/",
-        "blog_name":"Blogs",
-        "tag_line":"Heaven for Programmers",
-        "no_of_posts":2,
+        "blog_name":"BlogX",
+        "tag_line":"Heaven for Bloggers",
+        "no_of_posts":4,
         "login_image":"login.svg",
         "admin_user":"admin",
-        "admin_password":"subscribenow",
-        "upload_location":"C:\\Users\\Chaten\\Desktop\\Python\\static"
+        "admin_password":"password",
+        "upload_location":"<Enter yours>"
 
 
     }
